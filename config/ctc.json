@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "age": "add8f97841c",
+        "max_options": 4
+    },
+    "data_values_config": {
+        "a9a909e37ae": "int 99999",
+        "a571ec255a1": "string",
+        "a64c3a8988b": "event_date",
+        "ab7f0cb4213": ["a3c723b2674", "a0693881584", "a87992d7f51"],
+        "a550fea63e0": ["af15a9b8370", "a5e6be4b116", "abb328b250c"],
+        "a46c5f70b44": "string",
+        "adc08a93f00": "string",
+        "ae260adcbc6": ["a70309fd89c", "acbb13662a0", "abe0e2e2c0f"],
+        "a77c45627fd": ["a2d150cafd5", "a8b3a88233a"],
+        "a35afc175bb": ["acb569a9083", "a3669f1ecfd"],
+        "ac015755850": "int 10",
+        "a911b17d647": "int 10",
+        "adfd75ef755": ["a70309fd89c", "acbb13662a0", "abe0e2e2c0f"],
+        "a665cf56b55": ["afc7beb8bad", "aa787e9a40b", "a44556d7ed6", "aa5cae91b05"],
+        "a956d7a2908": "date",
+        "a1050ca95d6": ["a12472e851e", "a4baad9efb2", "a3edb659bae", "a101584173f"]
+    }
+}

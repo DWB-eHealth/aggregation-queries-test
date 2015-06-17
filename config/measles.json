@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "age": "aefe189c0ba",
+        "max_options": 3
+    },
+    "data_values_config": {
+        "a9f88bfcc0c": "event_date",
+        "aac3b162589": "int 99999",
+        "aa7ad1795ac": "string",
+        "a7997b99e1a": ["abd86b89485", "aa77526a78f", "ab4486d720d"],
+        "a5cdc270e7d": ["a72e3e2817c", "aa6d3362cb4"],
+        "ac7cccc92ad": ["a27666fd7ac", "aa73b8c7279", "a201105de0c"],
+        "a48b91c0979": "date",
+        "a43552a611a": ["a4b4ae08f72", "a21d3552f52"],
+        "a6d283ef18b": ["aa21fdf631b", "a1abe943af3"],
+        "a377d7cc9aa": ["af8b311471e", "a4f6c80710a"],
+        "aef197226b2": "date",
+        "af4bda1d17a": ["a1c8e3b57f8", "aec3112e60f"],
+        "aa1694ce719": "int 10",
+        "ab8ca4ffdb1": "date",
+        "a58c9afc718": ["ac167fc7004", "a1998c3ae40"],
+        "ae2103df624": ["aaefcb88857", "a418ff6f9d0"],
+        "a933a295322": ["a21686380dc", "a7a42587077"],
+        "a6e08763379": ["a4ea8ed8350", "a8a777b6838", "a30a3ee0568", "a0bfdded3f7", "acb32764ce3"]
+    }
+}
