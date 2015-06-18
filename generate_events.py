@@ -72,7 +72,7 @@ def generate_events(program_name):
     for i in range(0, 3):
         for j in range(0, metadata["max_options"]):
             event = deepcopy(base_event)
-            event_date = str(date.today() - timedelta(days=10))
+            event_date = str(date.today() - timedelta(days=7))
             event["event"] = generate_event_id()
             event["eventDate"] = event_date + "T00:00:00"
 
@@ -93,7 +93,7 @@ def generate_events(program_name):
 
 
 def main():
-    programs = ["ctc", "measles"]
+    programs = ["ctc", "measles", "er", "icu"]
     for p in programs:
         generate_events(p)
 

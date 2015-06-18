@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "age": "a86a265afb7",
+        "max_options": 120
+    },
+    "data_values_config": {
+        "ab37357f9a2": "event_date",
+
+        "a30b16e4d0f": ["afd34901a38", "a830ca8c501", "a55d92e8611", "a08613e73c8", "ad8dcbcdaca", "a5eee574c15", "a8327eadc64", "ae59c3dc93f", "a600fc029ec",
+            "a93d47d5f4e", "abd1d7ab6e6", "a7f5c01854e", "a72123c7388", "a99f9c3630a", "a154c39a894", "a13918e5e20", "a92c9e93ecf", "a550e3f3aa2", "a3400f946c2",
+            "a69d93c4ded", "ab449c6f02e", "a9db3b7e5e7", "a3b421fcb67", "ace74a8e88c", "ad1391c1d54", "ad0cbfb76bb", "a019e8e152d", "af0857d1a68", "afe5a7f1d0a",
+            "a28903ab92f", "acab329370a", "a69841217cc", "ae236c3b18d", "aad545b7be8", "a6300b3e3eb", "a8002527907", "a20a03ae9a5", "a31dc13b9c0", "ac41001e135",
+            "a76c799e38b", "a84a7218795", "a0c04929467", "a0b6b215611", "aa81013144c", "a75f529bcff", "ac7ced44e32", "a77308f714e", "a723f07da8a", "adf029d4ed9",
+            "a7325741ed5", "a5d05e2ff53", "a612bc52604", "a0c4edbe68b", "a9a703ed45f", "ace4530e92c", "a09a8406a03", "a8fb97213aa", "a0735e1fab0", "a6b82b90db5",
+            "a51c347e0d7"
+        ],
+
+        "a922aac45da": ["af232c9ec3c", "af00a506be9", "a1b63ceee59", "a783226d57c", "af4a188ae3a", "a81e0216d89", "a9912825b4e", "a6b0a92b3e5", "aeb625f8a3f",
+            "a2b5400e1e2", "adf1e8f25e3", "a0797ae8ce4", "a6341f24a01", "adc989f9fe5", "a0f3e753b99", "ae409d9c7b5", "a101cf46bc9", "a8c74677705", "a858d10aaf7",
+            "a89471fa4fd", "a11837921e5", "a634765ccff", "a6f9650494e", "a80d18f2ad7"
+        ],
+
+        "a56f065f738": ["ac837d2d329", "add59a95149", "aec82fa384f"],
+        "a94e93a5c64": ["a37e2f77624", "ab834ae33cc", "aff7341b6f2", "a9a8f698ad1"],
+        "ac27dbbb4b3": ["ab93857164f", "a9a1d31f8a5", "a66fdac8722", "aa1ab2b5d46"],
+        "ad03b1b1aa8": ["a3159c01e56", "ad9468320a3", "a7f9ea8adb7", "ad466e68dd5", "ac64421b73d", "a71e4f80f8b", "a9889dda7f6", "a706e9628e3", "acb5036df4c",
+            "ab574ee5b91", "ac8846df7bd", "af323c46a39", "ac1dbfeb76c"
+        ],
+
+        "aa3029f4abe": ["a4df8150252", "afc90bb7ead", "ae24cde9dc2", "a22c1752a76", "a2b9e582114", "adb83ad2295", "a5891055d92", "a6d2dc67476", "af999f0b1c6",
+            "a548c1d2835", "a2541019658", "aeb070db824", "a339cd1478b", "a9090e086af", "a389cb0ba24", "a4fc10dab73", "a01232ccfd6", "a9ea6199230", "a12eeb4103b",
+            "ad9339b4cf4", "a791dd2f8a4", "a43add244b5", "a6197e8c1cb", "a7d99f4b5e8", "a335007af55", "a949ac05941", "a271fa671ff", "a0620189441", "ac3c3c0efd1",
+            "a75a8bc81cf", "a8053b46098", "a24cd6dfeae", "a0672ccfe34", "a4b47e95b9b", "aad7000c449", "a70e17c13c6", "ad380e9fd96", "ab57cd07aa4", "a77558aaf3e",
+            "ae48715f8bd", "af8f706dbae", "a6e0e351b75", "a7d227e48b9", "ae15151251a", "a5e930b3ad8", "ae6cba31f5d", "a52b6d8d639", "a826c95d691", "a4383c14e1b",
+            "a3de892cfab", "a3b4603e6cf", "afb00dfc443", "a60979a54a6", "ad6853c5a44", "ae7c881c65f", "a14e82fcee7", "ae829da5431", "a6acace30fb", "a0c61c8e837",
+            "a3ffd6dc5af", "a5009dc4fa7", "a9cd9ccd6a0", "a8a1dd54e16", "aab59b2b4df", "a1e76af6618", "a7df730abaa", "ab1a3227dbf", "ada16f68e40", "a2fd3d407c5",
+            "acf60cd6113", "a7b28338b87", "ac6474fef52", "ad77ddcf5a0", "a9f52a0938e", "a87040d1255", "a48ea3e1133", "a1ab4f1ccec", "a2664c45434", "a6597524404",
+            "ae7812339ec", "a4ae30f68b7", "a694bdf4660", "ac47a26d46d", "a4f2024e205", "a3db7083684", "a81c0d44b83", "a2fcf9a973b", "a40a4e72e6c", "a408d57032d",
+            "af649e201d8", "a382404d04c", "a58b471b681", "a407e5dc048", "a45225de703", "a34889a8129", "ace1ae90cf6", "a3ba1212b0e", "a7a906c0e82", "a9ee5f21be0",
+            "a8d96896b42", "ade9289ee45", "acfe9cf5d0d", "af1a7c42fe0", "a85b3a3ebbf", "a946142f94d", "a7b589d5ac4", "a9dc9a7f9e6", "acc3019c558", "afb2afb42fe",
+            "a8197cdfe09", "a51134f740d", "abebc559bce", "a6203716440", "af7d2728ab8", "ab9046752e6", "a095462ae96", "a2293a2648c", "ad7b19afb26", "a4537b86cd7",
+            "ac9e006ff53"
+        ],
+
+        "a4e2acb9ad7": ["a6c90fc7021", "af5e2518bd8", "a5d0fb10c12", "ab06137e7a0", "a70329affe9", "ab4b86e2cc0", "aae859b87ba", "ac5929fa16d", "a3e618506cd",
+            "a00678bfc04", "aecada0a73b", "a9d30e8858c", "a9578e9cc2d", "a2b3c936f12", "ac1308adac0"
+        ],
+
+        "a396614bc09": ["a6c90fc7021", "af5e2518bd8", "a5d0fb10c12", "ab06137e7a0", "a70329affe9", "ab4b86e2cc0", "aae859b87ba", "ac5929fa16d", "a3e618506cd",
+            "a00678bfc04", "aecada0a73b", "a9d30e8858c", "a9578e9cc2d", "a2b3c936f12", "ac1308adac0"
+        ],
+
+        "a4c0b238647": ["a2fe9086040", "aeb00fe6f15"],
+        "aebe5661a39": ["a0b8ff5236e", "a973d3ab0c5"],
+        "aba9ff4bccd": ["a2416788dd3", "ab805071962", "a94c1c1e35c", "acfc75752e5", "a6b59239886"],
+        "abf88fe3508": "date",
+
+        "a29a6612d2d": ["afd34901a38", "a830ca8c501", "a55d92e8611", "a08613e73c8", "ad8dcbcdaca", "a5eee574c15", "a8327eadc64", "ae59c3dc93f", "a600fc029ec",
+            "a93d47d5f4e", "abd1d7ab6e6", "a7f5c01854e", "a72123c7388", "a99f9c3630a", "a154c39a894", "a13918e5e20", "a92c9e93ecf", "a550e3f3aa2", "a3400f946c2",
+            "a69d93c4ded", "ab449c6f02e", "a9db3b7e5e7", "a3b421fcb67", "ace74a8e88c", "ad1391c1d54", "ad0cbfb76bb", "a019e8e152d", "af0857d1a68", "afe5a7f1d0a",
+            "a28903ab92f", "acab329370a", "a69841217cc", "ae236c3b18d", "aad545b7be8", "a6300b3e3eb", "a8002527907", "a20a03ae9a5", "a31dc13b9c0", "ac41001e135",
+            "a76c799e38b", "a84a7218795", "a0c04929467", "a0b6b215611", "aa81013144c", "a75f529bcff", "ac7ced44e32", "a77308f714e", "a723f07da8a", "adf029d4ed9",
+            "a7325741ed5", "a5d05e2ff53", "a612bc52604", "a0c4edbe68b", "a9a703ed45f", "ace4530e92c", "a09a8406a03", "a8fb97213aa", "a0735e1fab0", "a6b82b90db5",
+            "a51c347e0d7"
+        ],
+
+        "a23d603a070": "int 99999",
+        "a5c51a340f0": "string"
+    }
+}
